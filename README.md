@@ -8,6 +8,10 @@ cp -p .env.example .env
 ```
 
 ```bash
+vi .env
+```
+
+```bash
 npm i
 ```
 
